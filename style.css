@@ -127,14 +127,14 @@ body{
 }
 .character{
     background-color:transparent;
-    width:30%;
+    width:auto;
     height: 100px;
     text-align: center;
     color: #FFB319;
     border-radius: 10px;
     display: flex;
     border: 1px solid orangered ;
-    margin: 0px 30px;
+    margin: 0px 40px;
     font-size: 13px;
     box-shadow: 0px 2px 8px #49FF00;
     background-color:#3D0000;
