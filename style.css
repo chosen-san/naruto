@@ -134,13 +134,14 @@ body{
     border-radius: 10px;
     display: flex;
     border: 1px solid orangered ;
-    margin: 0px 40px;
+    margin: 0px auto;
     font-size: 13px;
     box-shadow: 0px 2px 8px #49FF00;
     background-color:#3D0000;
 }
 .character > img{
     height:100%;
+    border-radius: 10px;
 }
 .character h2{
     margin: 12px 27px;
