@@ -128,6 +128,7 @@ body{
 .character{
     background-color:transparent;
     width:30%;
+    height: 100px;
     text-align: center;
     color: #FFB319;
     border-radius: 10px;
@@ -139,7 +140,7 @@ body{
     background-color:#3D0000;
 }
 .character > img{
-    height: 100px;
+    height:100%;
 }
 .character h2{
     margin: 12px 27px;
